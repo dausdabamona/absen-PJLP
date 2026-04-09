@@ -3,10 +3,10 @@
     <!-- Background biru gelap -->
     <item android:drawable="@color/splash_bg" />
 
-    <!-- Logo/teks di tengah -->
-    <item>
-        <bitmap
-            android:gravity="center"
-            android:src="@drawable/ic_splash_logo" />
-    </item>
+    <!-- Logo di tengah -->
+    <item
+        android:drawable="@drawable/ic_splash_logo"
+        android:gravity="center"
+        android:width="120dp"
+        android:height="120dp" />
 </layer-list>
