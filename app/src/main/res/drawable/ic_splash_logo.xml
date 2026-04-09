@@ -13,10 +13,9 @@
 
     <!-- Ikon checklist -->
     <path
-        android:fillColor="#FFFFFF"
+        android:fillColor="@android:color/transparent"
         android:pathData="M45,58 L55,68 L75,48"
         android:strokeWidth="6"
-        android:strokeColor="#FFFFFF"
-        android:fillColor="@android:color/transparent" />
+        android:strokeColor="#FFFFFF" />
 
 </vector>
