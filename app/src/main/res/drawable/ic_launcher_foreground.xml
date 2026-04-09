@@ -7,11 +7,10 @@
 
     <!-- Ikon checklist putih di tengah -->
     <path
-        android:fillColor="#FFFFFF"
+        android:fillColor="@android:color/transparent"
         android:pathData="M38,54 L48,64 L70,42"
         android:strokeWidth="5"
-        android:strokeColor="#FFFFFF"
-        android:fillColor="@android:color/transparent" />
+        android:strokeColor="#FFFFFF" />
 
     <!-- Lingkaran tipis -->
     <path
