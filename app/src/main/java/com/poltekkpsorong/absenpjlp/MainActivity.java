@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
     // ║  GANTI URL INI DENGAN URL DEPLOYMENT GAS ANDA              ║
     // ╚══════════════════════════════════════════════════════════════╝
     private static final String WEB_APP_URL =
-            "https://script.google.com/macros/s/GANTI_DENGAN_DEPLOYMENT_ID_ANDA/exec";
+            "https://script.google.com/macros/s/AKfycbxbx7H1G-TNRSMYkubD758caApYS1-I7q7mrU29hUtvF51xrsK4Ae0stBtRSZ_fi6cTrQ/exec";
 
     private static final String ADMIN_URL = WEB_APP_URL + "?page=admin";
 
