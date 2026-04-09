@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder splash logo — ganti dengan logo Poltek KP Sorong -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Lingkaran latar -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M60,10 A50,50 0 1,1 60,110 A50,50 0 1,1 60,10Z" />
+
+    <!-- Ikon checklist -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,58 L55,68 L75,48"
+        android:strokeWidth="6"
+        android:strokeColor="#FFFFFF"
+        android:fillColor="@android:color/transparent" />
+
+</vector>

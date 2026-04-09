@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Ikon checklist putih di tengah -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,54 L48,64 L70,42"
+        android:strokeWidth="5"
+        android:strokeColor="#FFFFFF"
+        android:fillColor="@android:color/transparent" />
+
+    <!-- Lingkaran tipis -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M54,24 A30,30 0 1,1 54,84 A30,30 0 1,1 54,24Z" />
+
+</vector>

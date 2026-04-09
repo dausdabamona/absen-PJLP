@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna utama — sesuai header AbsenPage.html -->
+    <color name="primary">#2563EB</color>
+    <color name="primary_dark">#1E3A5F</color>
+    <color name="primary_light">#93C5FD</color>
+
+    <!-- Background & text -->
+    <color name="background">#F0F4F8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#1A202C</color>
+    <color name="text_secondary">#6B7280</color>
+
+    <!-- Splash screen -->
+    <color name="splash_bg">#1E3A5F</color>
+</resources>
